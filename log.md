@@ -8,7 +8,7 @@
 
 **Today's Progress**: Create a producer following [How to build your first Apache KafkaProducer application](https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/kafka.html)
 
-**Thoughts** I have to deep dive in IntelliJ IDEA configuration.
+**Thoughts** I have to deep dive into IntelliJ IDEA configuration.
 
 **Link(s) to work**
 1. [kafka-producer-application](kafka-producer-application)
